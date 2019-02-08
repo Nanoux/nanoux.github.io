@@ -79,7 +79,7 @@ a 0 G navigation mechanic. It was actually a lot of fun.
 ## Aerospace Sim
 
 I love the game KSP and have wanted multiplayer for it forever, so I gave it a shot. I spent a semester
-making a craft editor, physics model, planetary terrain system, and netcode for it. It because a jumbled
+making a craft editor, physics model, planetary terrain system, and netcode for it. It became a jumbled
 mess of bugs, and as a result there's not much to show, but I'm proud I got as far as I did so fast.
 
 ----
